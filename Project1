@@ -1,0 +1,4 @@
+The First Project is just the model fit into the dataframe.
+Data Visualization is remaining.
+Improve the prediction by cross validating it with Grid Search to decide the best parameter to be applied
+Also try the prediction with XGBoost algorithm to classify the video category
